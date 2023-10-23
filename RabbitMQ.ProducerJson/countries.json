@@ -1,0 +1,320 @@
+[
+    {
+        "CountryName": "United States",
+        "Capital": "Washington, D.C.",
+        "Population": 331002651,
+        "OfficialLanguage": "English"
+    },
+    {
+        "CountryName": "Canada",
+        "Capital": "Ottawa",
+        "Population": 37742154,
+        "OfficialLanguage": "English, French"
+    },
+    {
+        "CountryName": "United Kingdom",
+        "Capital": "London",
+        "Population": 67886011,
+        "OfficialLanguage": "English"
+    },
+    {
+        "CountryName": "France",
+        "Capital": "Paris",
+        "Population": 65273511,
+        "OfficialLanguage": "French"
+    },
+    {
+        "CountryName": "Germany",
+        "Capital": "Berlin",
+        "Population": 83783942,
+        "OfficialLanguage": "German"
+    },
+    {
+        "CountryName": "Spain",
+        "Capital": "Madrid",
+        "Population": 46754778,
+        "OfficialLanguage": "Spanish"
+    },
+    {
+        "CountryName": "Italy",
+        "Capital": "Rome",
+        "Population": 60461826,
+        "OfficialLanguage": "Italian"
+    },
+    {
+        "CountryName": "Australia",
+        "Capital": "Canberra",
+        "Population": 25499884,
+        "OfficialLanguage": "English"
+    },
+    {
+        "CountryName": "Japan",
+        "Capital": "Tokyo",
+        "Population": 126476461,
+        "OfficialLanguage": "Japanese"
+    },
+    {
+        "CountryName": "China",
+        "Capital": "Beijing",
+        "Population": 1444216107,
+        "OfficialLanguage": "Mandarin"
+    },
+    {
+        "CountryName": "India",
+        "Capital": "New Delhi",
+        "Population": 1380004385,
+        "OfficialLanguage": "Hindi, English"
+    },
+    {
+        "CountryName": "Brazil",
+        "Capital": "Brasília",
+        "Population": 212559417,
+        "OfficialLanguage": "Portuguese"
+    },
+    {
+        "CountryName": "Argentina",
+        "Capital": "Buenos Aires",
+        "Population": 45195777,
+        "OfficialLanguage": "Spanish"
+    },
+    {
+        "CountryName": "Mexico",
+        "Capital": "Mexico City",
+        "Population": 128932753,
+        "OfficialLanguage": "Spanish"
+    },
+    {
+        "CountryName": "South Africa",
+        "Capital": "Pretoria",
+        "Population": 59308690,
+        "OfficialLanguage": "Zulu, Xhosa, Afrikaans, English"
+    },
+    {
+        "CountryName": "Russia",
+        "Capital": "Moscow",
+        "Population": 145934462,
+        "OfficialLanguage": "Russian"
+    },
+    {
+        "CountryName": "Egypt",
+        "Capital": "Cairo",
+        "Population": 102334404,
+        "OfficialLanguage": "Arabic"
+    },
+    {
+        "CountryName": "Saudi Arabia",
+        "Capital": "Riyadh",
+        "Population": 34813871,
+        "OfficialLanguage": "Arabic"
+    },
+    {
+        "CountryName": "Nigeria",
+        "Capital": "Abuja",
+        "Population": 206139587,
+        "OfficialLanguage": "English"
+    },
+    {
+        "CountryName": "Kenya",
+        "Capital": "Nairobi",
+        "Population": 53771296,
+        "OfficialLanguage": "Swahili, English"
+    },
+    {
+        "CountryName": "South Korea",
+        "Capital": "Seoul",
+        "Population": 51269185,
+        "OfficialLanguage": "Korean"
+    },
+    {
+        "CountryName": "Thailand",
+        "Capital": "Bangkok",
+        "Population": 69799978,
+        "OfficialLanguage": "Thai"
+    },
+    {
+        "CountryName": "Vietnam",
+        "Capital": "Hanoi",
+        "Population": 97338579,
+        "OfficialLanguage": "Vietnamese"
+    },
+    {
+        "CountryName": "Greece",
+        "Capital": "Athens",
+        "Population": 10423054,
+        "OfficialLanguage": "Greek"
+    },
+    {
+        "CountryName": "Netherlands",
+        "Capital": "Amsterdam",
+        "Population": 17134872,
+        "OfficialLanguage": "Dutch"
+    },
+    {
+        "CountryName": "Sweden",
+        "Capital": "Stockholm",
+        "Population": 10099265,
+        "OfficialLanguage": "Swedish"
+    },
+    {
+        "CountryName": "Norway",
+        "Capital": "Oslo",
+        "Population": 5421241,
+        "OfficialLanguage": "Norwegian"
+    },
+    {
+        "CountryName": "Denmark",
+        "Capital": "Copenhagen",
+        "Population": 5792202,
+        "OfficialLanguage": "Danish"
+    },
+    {
+        "CountryName": "Finland",
+        "Capital": "Helsinki",
+        "Population": 5540720,
+        "OfficialLanguage": "Finnish, Swedish"
+    },
+    {
+        "CountryName": "Ireland",
+        "Capital": "Dublin",
+        "Population": 4937786,
+        "OfficialLanguage": "Irish, English"
+    },
+    {
+        "CountryName": "Portugal",
+        "Capital": "Lisbon",
+        "Population": 10196709,
+        "OfficialLanguage": "Portuguese"
+    },
+    {
+        "CountryName": "Switzerland",
+        "Capital": "Bern",
+        "Population": 8654622,
+        "OfficialLanguage": "German, French, Italian, Romansh"
+    },
+    {
+        "CountryName": "Austria",
+        "Capital": "Vienna",
+        "Population": 9006398,
+        "OfficialLanguage": "German"
+    },
+    {
+        "CountryName": "Belgium",
+        "Capital": "Brussels",
+        "Population": 11589623,
+        "OfficialLanguage": "Dutch, French, German"
+    },
+    {
+        "CountryName": "Poland",
+        "Capital": "Warsaw",
+        "Population": 37846611,
+        "OfficialLanguage": "Polish"
+    },
+    {
+        "CountryName": "Czech Republic",
+        "Capital": "Prague",
+        "Population": 10708981,
+        "OfficialLanguage": "Czech"
+    },
+    {
+        "CountryName": "Hungary",
+        "Capital": "Budapest",
+        "Population": 9660351,
+        "OfficialLanguage": "Hungarian"
+    },
+    {
+        "CountryName": "Romania",
+        "Capital": "Bucharest",
+        "Population": 19237691,
+        "OfficialLanguage": "Romanian"
+    },
+    {
+        "CountryName": "Bulgaria",
+        "Capital": "Sofia",
+        "Population": 6948445,
+        "OfficialLanguage": "Bulgarian"
+    },
+    {
+        "CountryName": "Turkey",
+        "Capital": "Ankara",
+        "Population": 84339067,
+        "OfficialLanguage": "Turkish"
+    },
+    {
+        "CountryName": "Iran",
+        "Capital": "Tehran",
+        "Population": 83992949,
+        "OfficialLanguage": "Persian"
+    },
+    {
+        "CountryName": "Iraq",
+        "Capital": "Baghdad",
+        "Population": 40222493,
+        "OfficialLanguage": "Arabic, Kurdish"
+    },
+    {
+        "CountryName": "Egypt",
+        "Capital": "Cairo",
+        "Population": 102334404,
+        "OfficialLanguage": "Arabic"
+    },
+    {
+        "CountryName": "Jordan",
+        "Capital": "Amman",
+        "Population": 10203134,
+        "OfficialLanguage": "Arabic"
+    },
+    {
+        "CountryName": "Lebanon",
+        "Capital": "Beirut",
+        "Population": 6825442,
+        "OfficialLanguage": "Arabic"
+    },
+    {
+        "CountryName": "Syria",
+        "Capital": "Damascus",
+        "Population": 17500657,
+        "OfficialLanguage": "Arabic"
+    },
+    {
+        "CountryName": "Israel",
+        "Capital": "Jerusalem",
+        "Population": 8655535,
+        "OfficialLanguage": "Hebrew, Arabic"
+    },
+    {
+        "CountryName": "Saudi Arabia",
+        "Capital": "Riyadh",
+        "Population": 34813871,
+        "OfficialLanguage": "Arabic"
+    },
+    {
+        "CountryName": "Kuwait",
+        "Capital": "Kuwait City",
+        "Population": 4270571,
+        "OfficialLanguage": "Arabic"
+    },
+    {
+        "CountryName": "Qatar",
+        "Capital": "Doha",
+        "Population": 2881053,
+        "OfficialLanguage": "Arabic"
+    },
+    {
+        "CountryName": "United Arab Emirates",
+        "Capital": "Abu Dhabi",
+        "Population": 9890402,
+        "OfficialLanguage": "Arabic"
+    },
+    {
+        "CountryName": "Oman",
+        "Capital": "Muscat",
+        "Population": 5106626,
+        "OfficialLanguage": "Arabic"
+    },
+    {
+        "CountryName": "Yemen",
+        "Capital": "Sanaa",
+        "Population": 29825968,
+        "OfficialLanguage": "Arabic"
+    }
+]
